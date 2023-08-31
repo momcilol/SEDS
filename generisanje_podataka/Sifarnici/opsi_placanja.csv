@@ -1,0 +1,84 @@
+sifra,opis,prihod,tipovi_racuna
+221,Plaćanje kupljenih proizvoda iz omiljene online prodavnice.,0,0
+221,Izmirivanje troškova večere u restoranu nakon slavlja.,0,0
+221,Plaćanje telefonskog računa za prethodni mesec.,0,0
+221,Kupovina nove garderobe u lokalnoj prodavnici.,0,0
+221,Plaćanje putem e-trgovine za tehničke uređaje.,0,2
+221,Troškovi knjiga i materijala za školu ili fakultet.,0,0
+221,Uplata za vikend aranžman u planinama.,0,2
+221,Kupovina ulaznica za koncert omiljenog izvođača.,0,2
+221,Plaćanje zanatskih usluga za renoviranje doma.,0,2
+221,Rezervacija mesta za kurs stranog jezika.,0,0
+253,Plaćanje poreza na imovinu za aktuelnu godinu.,0,0
+253,Davanje donacije lokalnoj humanitarnoj organizaciji.,0,2
+253,Uplata mesečne članarine za sportski klub.,0,0
+253,Plaćanje takse za registraciju vozila.,0,0
+253,Donacija za podršku školskim programima.,0,2
+253,Uplata za izgradnju lokalne infrastrukture.,0,0
+253,Plaćanje godišnjeg doprinosa za osiguranje.,0,0
+253,Donacija za očuvanje životne sredine.,0,2
+253,Uplata za socijalne programe u zajednici.,0,2
+253,Pomoć za izgradnju nove bolnice.,0,0
+240,Plata,1,2
+240,Mesečna zarada,1,2
+240,Isplata naknade za prekovremeni rad.,1,2
+240,Neto zarada za tromesečje.,1,2
+240,Plaćanje autorskog honorara za knjigu.,1,2
+240,Uplata mesečnih prihoda iz freelance posla.,1,1
+240,Isplata primanja za rad na projektu.,1,2
+240,Plata za radnike u preduzeću za računarske usluge.,1,2
+240,Uplata za radnike u turističkoj agenciji.,1,0
+240,Isplata prihoda za rad u zdravstvenoj ustanovi.,1,0
+240,Neto zarada za kvartal.,1,2
+241,Neoporezivi bonus za dobro obavljen posao.,1,2
+241,Dodatak na platu kao deo timskog priznanja.,1,0
+241,Posebna nagrada za postignuti kvartalni cilj.,1,2
+241,Bonus za dugogodišnje radno iskustvo u kompaniji.,1,2
+241,Incentiv za kreativan doprinos na projektu.,1,2
+241,Uplata dodatnog novčanog priznanja za rad na posebnom zadatku.,1,2
+241,Neoporeziva nagrada za uspešno vođenje obuke.,1,0
+241,Dodatak na platu kao deo prazničnog bonusa.,1,0
+241,Bonus za ostvareni godišnji cilj kompanije.,1,2
+241,Incentiv za izuzetne rezultate u prodaji.,1,2
+226,Plaćanje zakupa kancelarijskog prostora za naredni mesec.,2,2
+226,Izmirivanje troškova zakupa magacina za skladištenje.,2,2
+226,Plaćanje kirije za restoranski prostor.,2,2
+226,Uplata zakupa poslovnog prostora za proizvodnu liniju.,2,2
+226,Troškovi zakupa prodajnog prostora za izložbu.,2,2
+226,Plaćanje mesečnog zakupa za IT opremu.,2,2
+226,Uplata zakupa opreme za gradilište.,2,2
+226,Plaćanje kirije za prostor za umetničku galeriju.,2,2
+226,Izmirivanje troškova zakupa laboratorijskog prostora.,2,2
+226,Plaćanje zakupa poslovnog prostora za fitnes centar.,2,2
+248,Dobit od uspešnog online preduzetništva.,1,1
+248,Prihodi od samostalnog umetničkog rada.,1,2
+248,Zarada od prodaje originalnih rukotvorina.,1,2
+248,Prihod od prodaje digitalnih proizvoda.,1,1
+248,Dobit od investicija u akcije.,1,2
+248,Prihod od freelance programiranja.,1,1
+248,Zarada od pružanja online konsultantskih usluga.,1,1
+248,Dobit od autorskog rada.,1,2
+248,Prihodi od prodaje ručno pravljenih nakita.,1,2
+248,Zarada od uspešnog blogovanja.,1,1
+245,Penzija,1,2
+283,Realizacija čeka,0,2
+289,Izvršena uplata prema nalogu građana za usluge konzultantske agencije.,0,2
+289,Plaćanje po specifičnom zahtevu klijenta za pravne usluge.,0,2
+289,Transakcija izvedena prema instrukcijama klijenta za nabavku opreme.,0,2
+289,Uplata prema nalogu klijenta za obuku zaposlenih.,1,2
+289,Transfer sredstava za potrebe događaja organizovanog po nalogu građana.,0,2
+289,Finansijska operacija izvedena u skladu s instrukcijama klijenta za isporuku proizvoda.,0,2
+289,Plaćanje na zahtev klijenta za kupovinu tehničkih rešenja.,0,2
+289,Uplata po specifičnoj instrukciji klijenta za podršku istraživačkom projektu.,1,2
+289,Transakcija izvršena na zahtev klijenta za pružanje obrazovnih usluga.,1,0
+289,Transfer sredstava prema nalogu građana za posebne marketinške aktivnosti.,1,2
+290,Specijalna transakcija po nalogu za posebne potrebe.,2,2
+290,Vanredno plaćanje za jedinstvenu svrhu.,2,2
+290,Dodatni transfer sa posebnim razlogom.,2,2
+290,Neplanirano izdvajanje sredstava za nepredviđene potrebe.,2,2
+290,Plaćanje van standardnih kategorija izdataka.,2,2
+290,Transakcija koja ne spada u uobičajene svrhe.,2,2
+290,Izdvajanje sredstava za specifičan projekat ili inicijativu.,1,2
+290,Posebna uplata za jednokratne potrebe.,2,2
+290,Finansijska operacija koja nije tipična za moje redovno poslovanje.,0,2
+290,Transfer sredstava za nešto što se ne uklapa u ostale definisane svrhe.,2,2
